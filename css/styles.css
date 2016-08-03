@@ -13,7 +13,7 @@ body {
   left: 0;
   top: 0;
   width: auto;
-  height: 100%;
+  height: 110%;
   opacity: 0.6;
   z-index: -1;
 }
@@ -43,5 +43,8 @@ h1 {
   }
 
   .aboutme {
-    background-color: #4f7a6c
+    background-color: #4f7a6c;
+    width: 50%;
+    margin-left: 25%;
+    margin-bottom: 100px;
   }
