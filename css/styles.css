@@ -1,0 +1,47 @@
+html {
+  height: 100%;
+}
+
+body {
+  position: relative;
+  z-index: 2;
+  min-height: 100%;
+}
+
+.field {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: auto;
+  height: 100%;
+  opacity: 0.6;
+  z-index: -1;
+}
+
+h1 {
+  text-align: center;
+}
+
+.category1 {
+  background-color: #4f7a6c;
+}
+
+.category2 {
+  background-color: #9ab3ab;
+}
+
+.category3 {
+  background-color: #ccd9d5;
+}
+
+.giphy {
+  margin-left: 500px;
+  border: 3px solid black;
+    display: block;
+    margin: 0 auto;
+    border-radius: 60%;
+  }
+
+  .aboutme {
+    background-color: #4f7a6c
+  }
